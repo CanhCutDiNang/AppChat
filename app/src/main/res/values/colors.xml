@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0a7afd</color>
+    <color name="primary_dark">#025fca</color>
+    <color name="primary_text">#000000</color>
+    <color name="hint_text">#d9d9d9</color>
+    <color name="secondary_text">#024897</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="purple">#a332fe</color>
+    <color name="orange">#f6553f</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="green">#008000</color>
+
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="accent">#EC2045</color>
+    <color name="textColor">#000000</color>
+    <color name="contentBackground">#FFFFFF</color>
+    <color name="textField">#FFFFFF</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#d3d3d3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#f4f5f7</color>
+    <color name="yellow">#ffea00</color>
+</resources>

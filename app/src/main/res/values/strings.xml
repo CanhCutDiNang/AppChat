@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AdulMess</string>
+    <string name="welcome_back">AdulMess xin chào!</string>
+    <string name="login_to_continue">Đăng nhập để sử dụng</string>
+    <string name="email">Địa chỉ email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="create_new_account">Tạo tài khoản mới</string>
+    <string name="add_image">Thêm ảnh</string>
+    <string name="name">Họ và tên</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="select_user">Chọn người dùng</string>
+    <string name="people_you_may_know">Những người bạn có thể biết</string>
+    <string name="type_a_message">Nhập tin nhắn</string>
+    <string name="online">Đang trực tuyến</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="remember_me">Ghi nhớ đăng nhập?</string>
+    <string name="dating_messaging_app">Ứng dụng nhắn tin hẹn hò</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="get_again_password">Lấy lại mật khẩu</string>
+    <string name="goback">Trở về</string>
+
+    <string name="rating_dialog_experience">Trải nghiệm của bạn với chúng tôi như thế nào?</string>
+    <string name="rating_dialog_maybe_later">Lúc khác</string>
+    <string name="rating_dialog_never">Không bao giờ</string>
+    <string name="rating_dialog_feedback_title">Phản hồi</string>
+    <string name="rating_dialog_submit">Xác nhận</string>
+    <string name="rating_dialog_cancel">Đóng</string>
+    <string name="rating_dialog_suggestions">Đề xuất cho chúng tôi những gì đã xảy ra và chúng tôi sẽ khắc phục nó!</string>
+    <string name="resetpassword">Quên mật khẩu?</string>
+    <string name="your_identity_has_been_verified_n_set_your_new_password">Xác minh danh tính thành công!\nĐặt mật khẩu mới của bạn</string>
+    <string name="request_verification_of_your_identity">Vui lòng xác minh danh tính của bạn</string>
+    <string name="ccontinue">Tiếp tục</string>
+    <string name="input_otp">Nhập mã xác thực</string>
+    <string name="send_again">Gửi lại mã sau</string>
+</resources>

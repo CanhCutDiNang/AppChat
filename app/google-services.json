@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366364314338",
+    "firebase_url": "https://zaloappchat-default-rtdb.firebaseio.com",
+    "project_id": "zaloappchat",
+    "storage_bucket": "zaloappchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366364314338:android:a10e9d89b93acacc9b2cbb",
+        "android_client_info": {
+          "package_name": "com.Appchatzl.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366364314338-86brbkfi1r5umbta5gj9u2eirjqcmttq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzzZ5YTNtzyrk3DxT3XXyHWcORJA8tUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366364314338-86brbkfi1r5umbta5gj9u2eirjqcmttq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
